@@ -6,7 +6,7 @@ const Hero = () => (
     id="hero"
     className="text-darkGray py-20 text-center min-h-screen"
     style={{
-      backgroundImage: "url('src/assets/herobg.jpg')",
+      backgroundImage: "url('/assets/herobg.jpg')",
       backgroundSize: "cover",
       backgroundPosition: "center",
       backgroundRepeat: "no-repeat",
