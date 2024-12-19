@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => (
   <footer className="bg-Dark Green text-secondary text-center py-4">
-    <p>&copy; {new Date().getFullYear()} Shiva Animal Feed. All rights reserved.</p>
+    <p>&copy; {new Date().getFullYear()} Shiva Cattle Feeds. All rights reserved.</p>
   </footer>
 );
 

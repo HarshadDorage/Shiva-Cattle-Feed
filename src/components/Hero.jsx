@@ -18,6 +18,10 @@ const Hero = () => (
         Premium Quality Cattle Feeds
       </h1>
       
+      <p className="text-red-800 text-lg font-semibold p-4 rounded-lg mb-2 inline-block animate-bounce">
+        Only for Cows, Buffaloes, and Calves
+        </p>
+
       {/* Description Text */}
       <p className="text-lg text-darkGray md:text-xl mb-6 leading-relaxed">
       Providing high-quality feed to keep your livestock healthy and strong for a better future.
